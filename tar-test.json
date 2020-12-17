@@ -1,0 +1,10 @@
+﻿{
+  "Targets": [
+    {
+      "WindowTitle": "TeamViewer Panel (最小化)",
+      "TitleContains": false,
+      "ChildText": "赞！"
+    }
+  
+  ]
+}
